@@ -1,4 +1,7 @@
 # 📄 DocuSummarize Pro
+**with OpenAI SDK**
+
+🌐 **See the Live Application**: [https://ai-document-summarizer-pro.vercel.app/](https://ai-document-summarizer-pro.vercel.app/)
 
 > **Transform your documents into clear, actionable summaries and analysis with AI. Get key points, action items, and citations—instantly and accurate.** ⚡
 
