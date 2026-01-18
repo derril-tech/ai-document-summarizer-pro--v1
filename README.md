@@ -2,8 +2,6 @@
 **with OpenAI SDK**
 
 
-🌐 **See the Live Application**: [https://ai-document-summarizer-pro.vercel.app/](https://ai-document-summarizer-pro.vercel.app/)
-
 > **Transform your documents into clear, actionable summaries and analysis with AI. Get key points, action items, and citations—instantly and accurate.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -76,15 +74,12 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](public/demo/homepage.png)
 *Beautiful landing page with file type icons and clear value proposition*
 
 ### 🎮 Playground
-![Playground](public/demo/playground.png)
 *Interactive interface for summarization and analysis*
 
 ### 📊 Dashboard
-![Dashboard](public/demo/dashboard.png)
 *Comprehensive dashboard with stats, activity, and search*
 
 ---
@@ -171,17 +166,7 @@
 
 ---
 
-## 📞 Support
-
-- 📧 **Email**: support@docusummarize.pro
-- 🐛 **Issues**: [GitHub Issues](https://github.com/derril-tech/ai-document-summarizer-pro/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/derril-tech/ai-document-summarizer-pro/discussions)
-
----
-
 <div align="center">
-
-**⭐ Star this repo if you find it useful!**
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
